@@ -24,7 +24,7 @@ I have a strong foundation in **Electrical Engineering** and **Data Science**, w
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/koffi-fidele-kouame/)
-- 📧 koffifidelek59@gmail.com
+- [📧 koffifidelek59@gmail.com](mailto:koffifidelek59@gmail.com)
 - [GitHub](https://github.com/koffifidelek59-collab)
 
 ---
