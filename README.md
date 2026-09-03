@@ -24,13 +24,13 @@ I have a strong foundation in **Electrical Engineering** and **Data Science**, w
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/koffi-fidele-kouame/)
-- [Email](mailto:koffifidelek59@gmail.com)
+- [📧 Email](mailto:koffifidelek59@gmail.com)
 - [GitHub](https://github.com/koffifidelek59-collab)
 
 ---
 
 ## GitHub Stats
-![Koffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=koffifidelek59-collab&show_icons=true&theme=radical)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkoffifidelek59-collab&label=Visitors&countColor=%23263759)
 
 ---
 
