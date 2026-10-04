@@ -131,7 +131,10 @@
 | **[Agricultural Monitoring](https://github.com/koffifidelek59-collab/agricultural-monitoring-ftw)** | Satellite-based agricultural monitoring and field analysis | Python · Geospatial AI |
 
 **Selected academic work (group projects, Master's in Green Hydrogen):**
+
 ☀️ *PV system sizing, Jülich vs West Africa*: same 3,000 kWh/a demand, 2.4 times less module area in the Sahel, explained by irradiation and seasonality ·
+
+
 🧪 *Power-to-Methanol case study, Kassø e-Methanol (Denmark)*: 52 MW PEM electrolysis, 42,000 t/yr e-methanol, mass balance and improvement options.
 
 ---
