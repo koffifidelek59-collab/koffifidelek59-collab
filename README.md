@@ -541,15 +541,13 @@ koffifidelek59@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=koffifidelek59-collab&bg_color=00000000&color=0E7490&line=0A66C2&point=0F766E&area=true&area_color=0A66C2&hide_border=true&custom_title=Contributions%20over%20the%20last%2031%20days" width="100%" alt="Contribution graph"/>
 </p>
 
-<!--
-  SNAKE: remove these two comment lines once the "Generate snake animation" workflow has run once (Actions tab).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake.svg" alt="Snake eating my contribution graph"/>
   </picture>
 </p>
--->
 
 <p align="center">
   <strong>⚡ Clean data. Reliable metrics. Evidence-based insights.</strong><br>
