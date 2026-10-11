@@ -537,16 +537,15 @@ koffifidelek59@gmail.com
   <img src="https://streak-stats.demolab.com?user=koffifidelek59-collab&hide_border=true&background=00000000&ring=0A66C2&fire=0F766E&currStreakLabel=0A66C2" width="70%" alt="Contribution streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koffifidelek59-collab&bg_color=00000000&color=0E7490&line=0A66C2&point=0F766E&area=true&area_color=0A66C2&hide_border=true&custom_title=Contributions%20over%20the%20last%2031%20days" width="100%" alt="Contribution graph"/>
-</p>
-
+<h3 align="center">📈 Contribution graph</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake.svg" alt="Snake eating my contribution graph"/>
-  </picture>
+  <a href="https://github.com/koffifidelek59-collab">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake-dark.svg"/>
+      <img src="https://raw.githubusercontent.com/koffifidelek59-collab/koffifidelek59-collab/output/github-snake.svg" width="100%" alt="Contribution graph: a snake eats my GitHub contributions"/>
+    </picture>
+  </a>
 </p>
 
 <p align="center">
